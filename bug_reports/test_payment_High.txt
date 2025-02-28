@@ -1,0 +1,6 @@
+Bug Report
+==========
+Test Case: test_payment
+Error Message: AssertionError: Payment gateway not responding
+Error Category: Assertion
+Priority: High

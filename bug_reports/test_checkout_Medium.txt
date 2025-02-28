@@ -1,0 +1,6 @@
+Bug Report
+==========
+Test Case: test_checkout
+Error Message: TimeoutError: Test took too long to execute
+Error Category: Timeout
+Priority: Medium

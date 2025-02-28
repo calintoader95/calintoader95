@@ -1,0 +1,35 @@
+[
+  {
+    "test_case": "test_login",
+    "status": "passed",
+    "duration": "2.3s",
+    "error": null
+  },
+  {
+    "test_case": "test_checkout",
+    "status": "failed",
+    "duration": "3.1s",
+    "error": "TimeoutError: Test took too long to execute",
+    "category": "Timeout"
+  },
+  {
+    "test_case": "test_payment",
+    "status": "failed",
+    "duration": "1.8s",
+    "error": "AssertionError: Payment gateway not responding",
+    "category": "Assertion"
+  },
+  {
+    "test_case": "test_user_registration",
+    "status": "failed",
+    "duration": "4.5s",
+    "error": "NullPointerException: Object reference not set to an instance of an object",
+    "category": "NullPointerException"
+  },
+  {
+    "test_case": "test_search",
+    "status": "passed",
+    "duration": "1.0s",
+    "error": null
+  }
+]

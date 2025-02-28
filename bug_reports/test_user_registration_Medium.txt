@@ -1,0 +1,6 @@
+Bug Report
+==========
+Test Case: test_user_registration
+Error Message: NullPointerException: Object reference not set to an instance of an object
+Error Category: NullPointerException
+Priority: Medium
